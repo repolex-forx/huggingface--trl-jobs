@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "trl-jobs",
+  "versions": [
+    {
+      "commit": "07d3ebec301c89ea520124bf8643117104e0e532",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:21:37.000264+00:00"
+    }
+  ]
+}
