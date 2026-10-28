@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "org": "huggingface",
+  "repo": "trl-jobs",
+  "versions": [
+    {
+      "commit": "07d3ebec301c89ea520124bf8643117104e0e532",
+      "parsed_at": "2026-10-28T14:19:23.722451+00:00",
+      "filetree": "filetree/07d3ebec301c89ea520124bf8643117104e0e532.nq.gz",
+      "blobs": [
+        "blob/f70817b113e358e7fa96cde5b929e30b61e9acfc.nq.gz",
+        "blob/a28863de8774781b3935106f3271bcb4ec200199.nq.gz",
+        "blob/074f86afcc8e2bdf32bfb96c4866bd88c91b3eeb.nq.gz",
+        "blob/d5feac76bd289e3a8f35360ff43e436f3c7aacbc.nq.gz",
+        "blob/82a91e874b0fd5b96dca4dc5c934b95a08cddec6.nq.gz",
+        "blob/1ce844a5c54e314628e5b2c46857091a652897cf.nq.gz",
+        "blob/4f6c777d5f5954bffc8acb33bbf346b5d5e10b0a.nq.gz",
+        "blob/ebc1aa0ed7831fa62beff2f5bd3a1c1632c21bf3.nq.gz",
+        "blob/a43702403563e4468898c1e44fc7f7648930b22e.nq.gz",
+        "blob/f1de51824573c6238968f45805b6d2b51512cb09.nq.gz",
+        "blob/120eabbe9a7cbb151eb4c51cca9f5a8f4a6e172d.nq.gz",
+        "blob/3dedd334a94b79521b9d66aa5b3824b456990642.nq.gz",
+        "blob/9a368cd2c657928812ea4a3dfa8b8940f96742f9.nq.gz",
+        "blob/592def2831f3b5786a6b7a2636cf34398cd359fe.nq.gz",
+        "blob/35c471a8091dbdcbb4cc2575706af2d3592b5724.nq.gz",
+        "blob/3e95b719050df0be96da5d3a8bc40c769328777b.nq.gz",
+        "blob/fffa213b9594754ffe87f6158ad84320b3a17fad.nq.gz",
+        "blob/377bef536ccb9c6d544877887296f51763a0c7b5.nq.gz",
+        "blob/e564cc88a9e0554bec80cebcb8472bb2ebd4120a.nq.gz",
+        "blob/79d1eafee13631ce6f4c9f2c63a4ec4eafc8e15f.nq.gz",
+        "blob/8c70153e7ecdab78b58bd5924f3bd57ad27045a9.nq.gz",
+        "blob/60a2d3e96c80e344efb192a6536f018f6deef60a.nq.gz",
+        "blob/ee738de89c02edb2ce1ae2bd31d2c7163d0b3af6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b6c1b1ae46d687d4b333b1d9d8a0414de0ecc476.nq.gz",
+        "blob/08ad4ecd66833ea26d2201c7897f156288407b6b.nq.gz",
+        "blob/c70d5235b3b7cce44feff60d7c4c754ed148a850.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
